@@ -26,7 +26,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gilangmubharak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&title=Gilang%20F%20-%20Mubharak%20Github%20Stats&hide_border=false" width="400" />
   <br />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gilangmubharak&theme=algolia" width="350" style="border: 1px solid rgba(255, 255, 255); border-radius: 6px;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gilangmubharak&theme=algolia" width="350" style="border: 1px solid rgba(255, 255, 255, 1); border-radius: 6px;" />
   <br />
   <img src="https://nirzak-streak-stats.vercel.app/?user=gilangmubharak&theme=algolia&hide_border=false" width="400" />
 </p>
