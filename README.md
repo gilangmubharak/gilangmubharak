@@ -1,24 +1,24 @@
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://instagram.com/gilangmubharak" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  <a href="https://facebook.com/gilangmubharak" target="_blank" style="text-decoration: none; border: none; outline: none;">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" style="border: none; outline: none;" />
   </a>
-  <a href="https://linkedin.com/in/gilangmubharak" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/gilangmubharak" target="_blank" style="text-decoration: none; border: none; outline: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border: none; outline: none;" />
   </a>
-  <a href="https://facebook.com/gilangmubharak" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  <a href="https://instagram.com/gilangmubharak" target="_blank" style="text-decoration: none; border: none; outline: none;">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" style="border: none; outline: none;" />
   </a>
   <br />
-  <a href="https://tiktok.com/@gilthunder661" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" />
+  <a href="https://tiktok.com/@gilthunder661" target="_blank" style="text-decoration: none; border: none; outline: none;">
+    <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TikTok" style="border: none; outline: none;" />
   </a>
-  <a href="https://x.com/gilthunder661" target="_blank">
-    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+  <a href="https://x.com/gilthunder661" target="_blank" style="text-decoration: none; border: none; outline: none;">
+    <img src="https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" style="border: none; outline: none;" />
   </a>
-  <a href="mailto:gilangmubharak@ummi.ac.id" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:gilangmubharak@ummi.ac.id" target="_blank" style="text-decoration: none; border: none; outline: none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border: none; outline: none;" />
   </a>
 </p>
 
