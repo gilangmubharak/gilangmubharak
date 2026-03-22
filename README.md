@@ -1,4 +1,3 @@
-
 ## 🌐 Socials:
 <p align="center">
   <a href="https://instagram.com/gilangmubharak" target="_blank">
