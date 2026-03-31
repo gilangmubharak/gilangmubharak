@@ -23,7 +23,6 @@
 
 <h3 align="center">🧠 Machine Learning</h3>
 <div align="center">
-  <!-- skillicons -->
   <img src="https://skillicons.dev/icons?i=python,django,flask" height="60" />
 </div>
 
